@@ -1,16 +1,34 @@
-## Hi there 👋
+# Yuki
 
-<!--
-**yuki-omikuji/yuki-omikuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+個人開発しながら  
+iOS・Android向けアプリを勉強中。
 
-Here are some ideas to get you started:
+## 開発中
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Boki Loop
+- Omikuji Journey
+- CoinScope
+- QuietLog
+
+## 使用環境
+
+- MacBook Air M5
+- Cursor
+- Claude
+- ChatGPT
+- Expo / React Native
+
+## 学習中
+
+- TypeScript
+- Firebase
+- Git / GitHub
+- App Store Connect
+
+## 興味
+
+- 個人開発
+- AI活用
+- 投資
+- ガジェット
+- 旅行
